@@ -1,8 +1,4 @@
-
-### `openai_connection.py` - README.md
-
-
-# OpenAI Connection
+# <div align="center">Telegram Bot for designer with OpenAi API</div>
 
 This script provides a function to generate descriptions for interior design photos using OpenAI's API. It allows the user to specify the type of description required (e.g., for a buyer, designer, etc.) and returns a detailed description of the design, specifically tailored for Russian-speaking users.
 
